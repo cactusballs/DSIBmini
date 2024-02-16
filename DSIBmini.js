@@ -2,6 +2,7 @@ const eightBall = document.querySelector(".eightBall")
 function generateAnswer() {
   responses = [
           'Second hand smoke kills your pets.<br>Don\'t smoke, it\'s bad', 
+          'You\'re not a simpson character, the yellow fingers arem\t cute!<br> Don\'t smoke, it\'s bad',
            'Smoking makes your breath smell like death. <br>Don\'t smoke, it\'s bad', 
            'Long Haul flights suck, they suck even more when you\'ve a nicotine addiction, quit smoking - go on holiday!<br>Don\'t smoke, it\'s bad', 
            'smoking causes arteriosclerosis, which leads to loss of circulation, this can then lead to sores, ulceration, gangreen and amputation. don\'t let smoking take your legs.<br>Don\'t smoke, it\'s bad', 
